@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://profile-counter.glitch.me/Adamrabout/count.svg?" alt="Adamrabout" /> </p>
 
-- 🌱 **I’m currently **sharpening my skills in modern frameworks and libraries**
+- 🌱 **I’m currently sharpening my skills in modern frameworks and libraries**
 
-- 👨‍💻 **I’m looking to collaborate on **innovative projects that intersect with the automotive industry as I have a huge passion about cars. If you are down, let's connect!**
+- 👨‍💻 **I’m looking to collaborate on innovative projects that intersect with the automotive industry as I have a huge passion about cars. If you are down, let's connect!**
 
 - 💬 **Ask me about my career change**
 

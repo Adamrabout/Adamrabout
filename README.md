@@ -9,7 +9,7 @@
 
 - 💬 **Ask me about my career change**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp740WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)
+- 📄 Know about my experiences **[Resume]**(https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp740WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)
 
 - 📫 **Reach out to me or connect with me!**
 

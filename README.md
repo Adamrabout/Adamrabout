@@ -9,9 +9,9 @@
 
 - 💬 **Ask me about my career change**
 
-- 📄 **ABOUT ME -** Know about my experiences **[Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp740WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)**
+- 📄 **MY EXPERIENCES -** Know about my experiences **[Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp740WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)**
 
-- 📫 **INQUIRE -** **[Reach out](adamrabout03@gmail.com)** to me or **[Connect](https://www.linkedin.com/in/raboutadam)** with me!
+- 📫 **INQUIRE -** **[Reach Out](adamrabout03@gmail.com)** to me or **[Connect](https://www.linkedin.com/in/raboutadam)** with me!
 
 - *⚡* **FUN FACT -** I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.
 

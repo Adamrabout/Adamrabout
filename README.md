@@ -13,7 +13,7 @@
 
 - *⚡* **I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.**
 
-- *✏️* **As I love writing you can read some of my** **[Blogs/Newsletters]([https://hashnode.com/@AdamDevs](https://adamdevs.hashnode.dev/)**
+- *✏️* **As I love writing you can read some of my** **[Blogs/Newsletters](https://hashnode.com/@AdamDevs](https://adamdevs.hashnode.dev/))**
 
 - 🚀 **I'm currently working on Secret Project!** 
 

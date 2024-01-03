@@ -87,6 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
 </div>
  </p>
+<br clear="both">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fundadamsideas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="180" alt="https://www.buymeacoffee.com/fundadamsideas" /></a></p><br><br>
@@ -94,8 +95,6 @@
 <br clear="both">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="adamrabout" /></p>
-
-<br clear="both">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="adamrabout" /></p>
 

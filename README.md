@@ -13,7 +13,7 @@
 
 - *⚡* **I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.**
 
-- 🚀 **I'm currently working on Secret Project more to come!** 
+- 🚀 **I'm currently working on Secret Project!** 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

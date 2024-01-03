@@ -7,7 +7,7 @@
 
 - 👨‍💻 **I’m looking to collaborate on innovative projects that intersect with the automotive industry as I have a huge passion for cars. If you are down, let's connect!**
 
-- 📄 **Get to know more about me** **[Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp740WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)**
+- 📄 **Get to know more about me** **[Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp735WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)**
 
 - 💬 **[Reach Out](adamrabout03@gmail.com) to me or [Connect](https://www.linkedin.com/in/raboutadam) with me!**
 
@@ -16,13 +16,13 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="adamrabout03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
   <a href="linkedin.com/in/raboutadam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
   <a href="https://www.hackerrank.com/profile/adamrabout03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"/>
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"/>
   </a>
 </div>
 
@@ -74,7 +74,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angularjs logo"  />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="32" alt="amazondynamodb logo"  />
+  <img src="https://cdn.simpleicons.org/amazondynamodb/3553D6" height="32" alt="amazondynamodb logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="32" alt="eclipseide logo"  />
   <img width="14" />

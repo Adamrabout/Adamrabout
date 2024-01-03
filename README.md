@@ -93,7 +93,7 @@
  </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fundadamsideas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="180" alt="https://www.buymeacoffee.com/fundadamsideas" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/fundadamsideas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="180" alt="https://www.buymeacoffee.com/fundadamsideas" /></a></p><br><br>
 
 <br clear="both">
 

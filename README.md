@@ -5,13 +5,15 @@
 
 - 🌱 **I’m currently sharpening my skills in modern frameworks and libraries**
 
-- 👨‍💻 **I’m looking to collaborate on innovative projects that intersect with the automotive industry as I have a huge passion for cars. If you are down, let's connect!**
+- 🤝 **I'm open to collaborating on other projects!**
 
 - 📄 **Get to know more about me** **[Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp735WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)**
 
 - 💬 **[Reach Out](adamrabout03@gmail.com) to me or [Connect](https://www.linkedin.com/in/raboutadam) with me!**
 
 - *⚡* **I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.**
+
+- 🚀  I'm currently working on **[Secret Project]** more to come! 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

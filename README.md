@@ -95,7 +95,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="adamrabout" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="adamrabout" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="adamrabout" /></p>
 
 
 

@@ -5,9 +5,9 @@
 
 - 🌱 **I’m currently sharpening my skills in modern frameworks and libraries**
 
-- 👨‍💻 **I’m looking to collaborate on innovative projects that intersect with the automotive industry as I have a huge passion about cars. If you are down, let's connect!**
+- 👨‍💻 **I’m looking to collaborate on innovative projects that intersect with the automotive industry as I have a huge passion for cars. If you are down, let's connect!**
 
-- 💬 **Ask me about my career change**
+- 💬 **LET'S CHAT -** **Ask me about my career change**
 
 - 📄 **MY EXPERIENCES -** Know about my experiences **[Resume](https://docs.google.com/document/d/1slxqB564sxghRZot8erRjvWLFsp740WU/edit?usp=sharing&ouid=114964691915252297622&rtpof=true&sd=true)**
 

@@ -13,7 +13,7 @@
 
 - *⚡* **I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.**
 
-<h3 align="center">Connect with Me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="adamrabout03@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"/>
@@ -94,6 +94,8 @@
 <br clear="both">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en&layout=compact" alt="adamrabout" /></p>
+
+<br clear="both">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamrabout&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="adamrabout" /></p>
 

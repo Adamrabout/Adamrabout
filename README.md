@@ -13,7 +13,7 @@
 
 - 📫 **[Reach out](adamrabout03@gmail.com) to me or [connect](https://www.linkedin.com/in/raboutadam) with me!**
 
-- *⚡* **Fun Fact** I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.
+- *⚡* **Fun Fact** - I have a great sense of humor and an equal passion for coding and cars – I believe both require precision, creativity, and the drive to go the extra mile.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

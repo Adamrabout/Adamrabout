@@ -3,7 +3,7 @@
 <ul dir="auto">
 <li>Check out my <a href="https://www.adamdevs.tech/" rel="nofollow">website</a> to learn more about me.</li>
 <li>Explore my <a href="https://adamdevs.hashnode.dev/?source=top_nav_blog_home" rel="nofollow">blog</a> where I share insights and learnings.</li>
-<li>Stay updated with my journey on <a href="https://www.instagram.com/adamdevs_." rel="nofollow">Instagram</a>, <a href="https://www.linkedin.com/in/raboutadam" rel="nofollow">LinkedIn</a> and <a href="https://www.twitter.com/@adamdevs_" rel="nofollow">Twitter</a>.</li>
+<li>Stay updated with my journey on <a href="https://www.linkedin.com/in/raboutadam" rel="nofollow">LinkedIn</a> and <a href="https://www.twitter.com/@adamdevs_" rel="nofollow">Twitter</a>.</li>
 <li>Explore my <a href="https://github.com/Adamrabout/vscode-settings">VS Code Configuration</a> for development optimization.</li>
   
 </ul>

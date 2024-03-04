@@ -1,7 +1,7 @@
 <h2 align="left">Hey, I'm Adam 👋</h2>
 <p dir="auto">I'm a cybersecurity analyst based in Houston with multiple certifications, passionate about enhancing digital security and exploring the potential of cloud technologies.</p>
 <ul dir="auto">
-<li>Check out my <a href="https://www.adamdevs.tech/" rel="nofollow">website</a> to learn more about me or read one of my blogs.</li>
+<li>Check out my <a href="https://www.adamdevs.tech/" rel="nofollow">website</a> to learn more about me. (COMING SOON) </li>
 <li>Explore my <a href="https://adamdevs.hashnode.dev/?source=top_nav_blog_home" rel="nofollow">blog</a> where I share insights and learnings.</li>
 <li>Stay updated with my journey on <a href="https://www.linkedin.com/in/raboutadam" rel="nofollow">LinkedIn</a>
   

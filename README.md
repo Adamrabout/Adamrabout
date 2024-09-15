@@ -1,8 +1,8 @@
 <h2 align="left">Hey, I'm Adam 👋</h2>
 <p dir="auto">I'm a management supply chain analyst based in Houston with multiple certifications in IT and Supply Chain.</p>
 <ul dir="auto">
-<li>Check out my <a href="https://www.adamdevs.io/" rel="nofollow"><b>website</b></a> to learn more about me. <b>(COMING SOON)</b></li>
-<li>Explore my <a href="https://adamdevs.hashnode.dev/?source=top_nav_blog_home" rel="nofollow"><b>blog</b></a> where I share insights and learnings.</li>
+<li>Check out my <a href="https://www.adamr.io/" rel="nofollow"><b>website</b></a> to learn more about me. <b>(COMING SOON)</b></li>
+<li>Explore my <a href="https://adamr.hashnode.dev/?source=top_nav_blog_home" rel="nofollow"><b>blog</b></a> where I share insights and learnings.</li>
 <li>Stay updated with my journey on <a href="https://www.linkedin.com/in/raboutadam" rel="nofollow"><b>LinkedIn</b></a>
   
 </ul>
